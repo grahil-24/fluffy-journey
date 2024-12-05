@@ -51,8 +51,6 @@ export default [
     {
         name: 'PictoBlox String',
         extensionId: 'pictobloxString',
-        // iconURL: 'https://path-to-your-extension-icon', // Replace with an icon URL
-        // insetIconURL: 'https://path-to-your-inset-icon', // Replace with an inset icon URL
         description: 'String manipulation blocks for PictoBlox',
         featured: true
     },
